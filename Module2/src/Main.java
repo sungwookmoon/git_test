@@ -9,5 +9,6 @@ public class Main {
         Calendar cal = Calendar.getInstance();
         System.out.println(cal.getTime());
         System.out.println("Super MAN");
+        System.out.println("END");
     }
 }
